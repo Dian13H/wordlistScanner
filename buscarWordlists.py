@@ -33,7 +33,7 @@ WORDLIST_FILE = "top-usernames-shortlist.txt"  # archivo con la lista de palabra
 # --- Ejecutar escaneo ---
 wordlist = cargar_wordlist(WORDLIST_FILE)
 if wordlist:
-    print(f"Escaneando {TARGET_URL} con {len(wordlist)} palabras de {WORDLIST_FILE}...\n")
+    print(f"Escaneando {TARGET_URL} con {len(wordlist)} palabras de {WORDLIST_FILE}\n")
     for word in wordlist:
         scan_url(TARGET_URL, word)
 
