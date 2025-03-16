@@ -1,6 +1,7 @@
 # Wordlist Scanner
 Un wordlist scanner es una herramienta de escaneo diseñada para identificar recursos web ocultos utilizando listas de palabras (wordlists). Está pensada para facilitar tareas de enumeración y descubrimiento de directorios y archivos en aplicaciones web.
-En este repositorio se encuentran scripts de python para hacer escaneo de wordlists
+
+En este repositorio se encuentran scripts de python para hacer escaneo de wordlists.
 
 ## Archivos
 - `buscarPalabra.py`: busca una palabra dentro de la página web
