@@ -5,7 +5,7 @@ En este repositorio se encuentran scripts de python para hacer escaneo de wordli
 
 ## Archivos
 - `buscarPalabra.py`: busca una palabra dentro de la página web
-- `buscarWordlists.py`: busca las palabras dentro de un archivo (wordlist) dentro de una página web
+- `buscarWordlists.py`: busca las palabras de un archivo (wordlist) dentro de una página web
 - `UserPassCombo-Jay.txt`: archivo con wordlists de usuarios y contraseñas
 - `top-usernames-shortlist.txt`: archivo con wordlist de nombres de usuarios
 - `victima.html`: HTML de ejemplo para probar el escáner
